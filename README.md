@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Satoru-Man or better call me only... Satoru
+- IT professional, passionate about adventure sports, world music, good father and, above all, resilient.
 
 - 👀 I’m interested in Techonology in general, as computer sciences (Software Development) or genetic editions (CRISPR)
 
