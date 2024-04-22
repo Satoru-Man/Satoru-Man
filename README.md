@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Satoru-Man, but is better call me only... Satoru
-- IT professional, passionate about adventure sports, world music, good father and, above all, resilient.
+- Professional with 30 years of experience in IT software development, passionate about adventure sports, world music, good father and, above all, resilient.
 
 - 👀 I’m interested in Techonology in general, as computer sciences (Software Development), AI or progress in genetics like CRISPR
 
