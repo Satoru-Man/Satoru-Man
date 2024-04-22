@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @Satoru-Man or better call me only... Satoru
+- 👋 Hi, I’m @Satoru-Man, but is better call me only... Satoru
 - IT professional, passionate about adventure sports, world music, good father and, above all, resilient.
 
-- 👀 I’m interested in Techonology in general, as computer sciences (Software Development) or genetic editions (CRISPR)
+- 👀 I’m interested in Techonology in general, as computer sciences (Software Development), AI or progress in genetics like CRISPR
 
-- 🌱 I’m currently learning a bit of several things, like Python programming, re-discovering software development, korean and japanese goods, German language, etc
+- 🌱 I’m currently learning a bit of several things, like Python programming, re-discovering software development, learning about korean and japanese goods, German language, AI etc
 <!--- - 💞️ I’m looking to collaborate on --->
-- 📫 You can reach me here, at Linkedin, Facebook (not a big fan), Instagram, Discord and 'X'witter 🙄
+- 📫 You can reach me here, at Linkedin, Facebook (not a big fan), Instagram, Discord (well, I'm trying...) and 'X'witter 🙄
 
 - 🙂 I want to be recognized as 'The father of Carolina Maya' (Der Vater von Carolina Maya)
 
